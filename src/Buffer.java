@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Buffer {
+public class Buffer extends BufferedWriteExample {
+
+
 }
